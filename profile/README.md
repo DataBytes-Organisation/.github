@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there 👋 and welcome to DataBytes 😁
 
-<!--
+DataBytesis a multi-disciplinary company that builds next-generation applications and platforms, powered by data. 
+Our mission is leveraging the latest advancements in Artificial Intelligence, Data Science and Digital Finance.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+**This trimester we are running 4 projects:**
+- Project Echo (led by ANDREW KUDILCZAK & STEPHAN KOKKAS)
+- DiscountMate (led by HIMANSHU)
+- FinTech (led by SAMANTHA PETRI)
+- DataBytes Company Website (a last minute addition, led by HOPI BEE)
