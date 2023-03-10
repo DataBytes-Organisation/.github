@@ -6,9 +6,8 @@ Our mission is leveraging the latest advancements in Artificial Intelligence, Da
 
 **This trimester we are running 4 projects:**
 - Project Echo (led by ANDREW KUDILCZAK & STEPHAN KOKKAS)
-- DiscountMate (led by HIMANSHU)
-- FinTech (led by SAMANTHA PETRI)
-- DataBytes Company Website (a last minute addition, led by HOPI BEE)
+- DiscountMate (led by MATTHEW PETTIT)
+- DolFin (led by SAMANTHA PETRI)
 
 
 
