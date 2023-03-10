@@ -4,13 +4,10 @@ Welcome to the DataBytes organization on GitHub! We're excited to have you here 
 
 Our mission is leveraging the latest advancements in Artificial Intelligence, Data Science and Digital Finance.
 
-**This trimester we are running 4 projects:**
+**This trimester we are running 3 projects:**
 - Project Echo (led by ANDREW KUDILCZAK & STEPHAN KOKKAS)
-- DiscountMate (led by HIMANSHU)
-- FinTech (led by SAMANTHA PETRI)
-- DataBytes Company Website (a last minute addition, led by HOPI BEE)
-
-
+- DiscountMate (led by MATHEW PETTIT)
+- DolFin FinTech (led by SAMANTHA PETRI)
 
 ## Rules
 
