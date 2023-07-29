@@ -1,14 +1,14 @@
-## Hi there 👋 and Welcome to DataBytes 😁
+## Hi there 👋 and Welcome to DataBytes for T2 in 2023!😁
 
 Welcome to the DataBytes organization on GitHub! We're excited to have you here contributing to our various repositories. To ensure smooth collaboration and maintain a high quality of code, we have established some guidelines and best practices that we expect all members to follow.
 
 Our mission is leveraging the latest advancements in Artificial Intelligence, Data Science and Digital Finance.
 
 **This trimester we are running 3 projects:**
-- Project Echo (led by ANDREW KUDILCZAK & STEPHAN KOKKAS)
-- DiscountMate (led by MATHEW PETTIT)
-- DolFin FinTech (led by SAMANTHA PETRI)
-
+- Project Echo (led by QUENTIN COOKE, TUNG NGUYEN & ROHIT DHANDA)
+- DolFin FinTech (led by CHRISTOPHER RUSSO & JACKSON THOMPSON)
+The following project is not running this trimester:
+- DiscountMate (led by )
 ## Rules
 
 - **_Locking main branch_**: The main branch is the production-ready branch of our repositories. As such, it is to be locked to prevent accidental pushes and merges. If you need to make changes to the main branch, create a pull request. *Navigate to the repository settings, and under the "Branches" tab, enable "Require pull request reviews before merging" and "Require status checks to pass before merging". This will prevent anyone from pushing directly to the main branch and ensure that changes are made via pull requests.*
