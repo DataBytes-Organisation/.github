@@ -7,7 +7,8 @@ Our mission is leveraging the latest advancements in Artificial Intelligence, Da
 **This trimester we are running 3 projects:**
 - Project Echo (led by QUENTIN COOKE, TUNG NGUYEN & ROHIT DHANDA)
 - DolFin FinTech (led by CHRISTOPHER RUSSO & JACKSON THOMPSON)
-The following project is not running this trimester:
+ 
+**The following project is not running this trimester:**
 - DiscountMate (led by )
 ## Rules
 
