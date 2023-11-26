@@ -1,15 +1,23 @@
-## Hi there 👋 and Welcome to DataBytes for T2 in 2023!😁
+## Hi there 👋 and Welcome to DataBytes for Trimester 3 in 2023!😁
 
 Welcome to the DataBytes organization on GitHub! We're excited to have you here contributing to our various repositories. To ensure smooth collaboration and maintain a high quality of code, we have established some guidelines and best practices that we expect all members to follow.
 
-Our mission is leveraging the latest advancements in Artificial Intelligence, Data Science and Digital Finance.
+**A little intro to DataBytes:**
+DataBytes Corporation is dedicated to harnessing the power of 
+advanced technologies such as artificial intelligence, data science, and digital finance to 
+tackle worldwide issues. With a multidisciplinary focus spanning environmental 
+sustainability, personalized education, fintech, and more, our corporation is committed to 
+delivering groundbreaking solutions that create a positive and lasting impact.
 
-**This trimester we are running 3 projects:**
-- Project Echo (led by QUENTIN COOKE, TUNG NGUYEN & ROHIT DHANDA)
-- DolFin FinTech (led by CHRISTOPHER RUSSO & JACKSON THOMPSON)
+**This trimester we are running 2 projects:**
+- DolFin FinTech (led by Shane Dzartov, Aidan Wong and Jeremy Conway)
+- New Discovery Project (led by Scott West, Jifeng Chen, Brett Youngman & Said Abdullah)
  
-**The following project is not running this trimester:**
-- DiscountMate (led by )
+**The following projects are not running this trimester:**
+- Discount Mate
+- Project Echo
+- Company Website
+
 ## Rules
 
 - **_Locking main branch_**: The main branch is the production-ready branch of our repositories. As such, it is to be locked to prevent accidental pushes and merges. If you need to make changes to the main branch, create a pull request. *Navigate to the repository settings, and under the "Branches" tab, enable "Require pull request reviews before merging" and "Require status checks to pass before merging". This will prevent anyone from pushing directly to the main branch and ensure that changes are made via pull requests.*
@@ -30,7 +38,5 @@ Write clear commit messages:_** Commit messages should be clear and descriptive.
 - **_Use issues:_** Issues are a great way to keep track of bugs and feature requests. Use them to organize work and track progress.
 - **_Keep documentation up-to-date:_** Documentation should be updated whenever code changes are made. This helps keep the codebase readable and maintainable.
 - **_Be responsive:_** Respond to pull requests and issues in a timely manner. This helps keep the project moving forward and ensures that everyone is on the same page.
-
-*Note: If you are unsure how to enforce the above rules, please reach out to Stephan Kokkas (skokkas@deakin.edu.au) or through Teams :)*
 
 Thank you for contributing to DataBytes! Let's build some great things together.
