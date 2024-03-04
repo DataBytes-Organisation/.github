@@ -1,4 +1,4 @@
-## Hi there 👋 and Welcome to DataBytes for Trimester 3 in 2023!😁
+## Hi there 👋 and Welcome to DataBytes for Trimester 1 in 2024!😁
 
 Welcome to the DataBytes organization on GitHub! We're excited to have you here contributing to our various repositories. To ensure smooth collaboration and maintain a high quality of code, we have established some guidelines and best practices that we expect all members to follow.
 
@@ -9,13 +9,14 @@ tackle worldwide issues. With a multidisciplinary focus spanning environmental
 sustainability, personalized education, fintech, and more, our corporation is committed to 
 delivering groundbreaking solutions that create a positive and lasting impact.
 
-**This trimester we are running 2 projects:**
+**This trimester we are running 3 projects:**
 - DolFin FinTech (led by Shane Dzartov, Aidan Wong and Jeremy Conway)
+- Project Echo (led by Dipansh Garg & Sizhe Wang)
 - New Discovery Project (led by Scott West, Jifeng Chen, Brett Youngman & Said Abdullah)
+
  
 **The following projects are not running this trimester:**
 - Discount Mate
-- Project Echo
 - Company Website
 
 ## Rules
@@ -33,7 +34,7 @@ delivering groundbreaking solutions that create a positive and lasting impact.
 **Best Practices**
 
 - **_Commit frequently:_** Committing frequently helps track changes and makes it easier to revert changes if needed.
-Write clear commit messages:_** Commit messages should be clear and descriptive. They should explain what the commit does and why it was made.
+- **_Write clear commit messages:_** Commit messages should be clear and descriptive. They should explain what the commit does and why it was made.
 - **_Use branches:_** Creating branches helps keep the main branch clean and makes it easier to manage changes.
 - **_Use issues:_** Issues are a great way to keep track of bugs and feature requests. Use them to organize work and track progress.
 - **_Keep documentation up-to-date:_** Documentation should be updated whenever code changes are made. This helps keep the codebase readable and maintainable.
