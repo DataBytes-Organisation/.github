@@ -10,7 +10,7 @@ sustainability, personalized education, fintech, and more, our corporation is co
 delivering groundbreaking solutions that create a positive and lasting impact.
 
 **This trimester we are running 3 projects:**
-- DolFin FinTech (led by Aiden John Wiltshire, Denica Hope, Gimsara Kenula Elgiriyage, Heera Mohanadas & Junkai Jiang) 
+- DolFin FinTech (led by Denica Hope, Gimsara Kenula Elgiriyage, Heera Mohanadas & Junkai Jiang) 
 - Project Echo (led by Dipansh Garg & Sizhe Wang)
 - New Discovery Project (led by Scott West, Jifeng Chen, Brett Youngman & Said Abdullah)
 
