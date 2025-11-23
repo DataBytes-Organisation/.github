@@ -1,4 +1,4 @@
-## Hi there 👋 and Welcome to DataBytes for Trimester 1 in 2024!😁
+## Hi there 👋 and Welcome to DataBytes for Trimester 3 in 2025!😁
 
 Welcome to the DataBytes organization on GitHub! We're excited to have you here contributing to our various repositories. To ensure smooth collaboration and maintain a high quality of code, we have established some guidelines and best practices that we expect all members to follow.
 
